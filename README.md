@@ -7,7 +7,7 @@ It utilizes the Pima Indians Diabetes Database to predict whether a patient has 
 
 The goal of this project is to build a machine learning model that can predict diabetes in patients based on medical data. The dataset includes features such as blood pressure, BMI, age, and others.
 
-# Description
+## Description
 
 The notebook trains several machine learning models to predict diabetes using a dataset containing various health parameters. The models evaluated include:
 
@@ -19,9 +19,9 @@ Naive Bayes
 
 ## Dataset
 
-The dataset used for training and testing is preprocessed and scaled to improve the accuracy of the models.
+The dataset used for training and testing is preprocessed and scaled to improve the accuracy of the models.The dataset consists of several medical predictor variables and one target variable (Outcome).
+
 You can downnload the Dataset here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-The dataset consists of several medical predictor variables and one target variable (Outcome).
 
 ## Installation
 
